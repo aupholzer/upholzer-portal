@@ -95,7 +95,7 @@
     "redux-saga": "latest"
   },
   "devDependencies": {
-    "@babel/polyfill": "^latest",
+    "@babel/polyfill": "latest",
     "@babel/preset-env": "latest",
     "@babel/preset-react": "latest",
     "@testing-library/jest-dom": "latest",
