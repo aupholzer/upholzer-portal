@@ -21,11 +21,6 @@ const Home = () => (
     <div className={HomeStyles.app}>
       <img className={HomeStyles.logo} alt={IMG_ALT} src={ReactLogo} />
       <h1 className={HomeStyles.heading}>{WELCOME_HEADING}</h1>
-      <div className={HomeStyles.badges}>
-        <img alt="License Badges" src={LICENCE_BADGE} />
-        <img alt="Stars Badges" src={FORK_BADGE} />
-        <img alt="Forks Badges" src={STARS_BADGE} />
-      </div>
     </div>
   </>
 );
