@@ -121,7 +121,7 @@
     "husky": "latest",
     "identity-obj-proxy": "latest",
     "ignore-styles": "latest",
-    "jest": "latest0",
+    "jest": "latest",
     "lint-staged": "latest",
     "nodemon": "latest",
     "optimize-css-assets-webpack-plugin": "latest",
