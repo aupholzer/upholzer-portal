@@ -78,8 +78,7 @@
     "redux",
     "saga"
   ],
-  "author": "Anand (@aanandgupta193) & Shubham (@shubhamsWEB)",
-  "license": "ISC",
+  
   "dependencies": {
     "@babel/core": "^7.13.14",
     "@babel/node": "^7.13.13",
